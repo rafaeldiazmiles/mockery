@@ -1,0 +1,2 @@
+# mockery
+First Mock (Go)
